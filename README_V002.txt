@@ -24,11 +24,11 @@ The data is stored in a comma-separated format as a .xlsx file and contains 15 c
 (10) Elevation in meters above sea level (m.a.s.l.) 
 (11) Reference: 1st Author and Year of publication
 (12) DOI: Digital Object Identifier or link to original study
-(13) DataQuality: Attempt to describe quality of measurements (Grade *1 = Lowest reliability, *2 = Intermediate reliability, *3 = Highest reliability). For details see file: Data Quality Evaluation.pdf
-(14) Method: Indicates type of estimate in the original study
-(15) Comment: indicates type of measurement borehole, iceborehole, marine unconsolidated sediments
+(13) DataQuality: Attempt to describe quality of measurements (Grade x1 = Lowest reliability, x2 = Intermediate reliability, x3 = Highest reliability). For details see file: Data Quality Evaluation.pdf
+(14) Method: Indicates type of estimate 
+(15) Comment: Contains additional information
 
 Please consider, that this database might be subject to updates. 
 
 Changes: 
-29.07.2020 V002: Database has been updated. Data quality has been revised. New column (10 Elevation) has been added. Two redundancies have been removed. 
+29.07.2020 V002: Database has been updated. Data quality has been revised. New column (10 Elevation) has been added. Two redundancies have been removed.  
