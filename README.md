@@ -32,3 +32,4 @@ Please consider, that this database might be subject to updates.
 
 Changes: 
 29.07.2020 V002: Database has been updated. Data quality has been revised. New column (10 Elevation) has been added. Two redundancies have been removed. 
+18.08.2020 V003: Requirement for I2 classification changed from 600 m to 300 m borehole depth.
