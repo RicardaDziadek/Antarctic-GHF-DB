@@ -3,10 +3,7 @@
 
 This database aims to collect and distribute geothermal heat flow estimates south of 50° and accompanies the following manuscript: 
  
-Burton-Johnson, A., Dziadek, R., and Martin, C.: Geothermal heat flow in Antarctica: current and future directions, 
-The Cryosphere Discuss., https://doi.org/10.5194/tc-2020-59, in review, 2020.
-
-Received: 19 Feb 2020 – Accepted for review: 11 Mar 2020 – Discussion started: 16 Mar 2020
+Burton-Johnson, A., Dziadek, R., and Martin, C.: Geothermal heat flow in Antarctica: current and future directions, The Cryosphere, 2020.
 
 When using the database we kindly ask you to cite this publication. 
 
@@ -36,7 +33,7 @@ The data is stored in a comma-separated format as a .xlsx file and contains 15 c
 
 (12) DOI: Digital Object Identifier or link to original study
 
-(13) DataQuality: Attempt to describe quality of measurements (Grade x1 = Lowest reliability, x2 = Intermediate reliability, x3 = Highest reliability). For details see file: Data Quality Evaluation.pdf
+(13) DataQuality: Attempt to describe quality of measurements (Grade *1 = Lowest reliability, *2 = Intermediate reliability, *3 = Highest reliability). For details see file: Data Quality Evaluation.pdf
 
 (14) Method: Indicates type of estimate 
 
@@ -45,7 +42,5 @@ The data is stored in a comma-separated format as a .xlsx file and contains 15 c
 Please consider, that this database might be subject to updates. 
 
 Changes: 
-
 29.07.2020 V002: Database has been updated. Data quality has been revised. New column (10 Elevation) has been added. Two redundancies have been removed. 
-
 18.08.2020 V003: Requirement for I2 classification changed from 600 m to 300 m borehole depth.
