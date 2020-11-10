@@ -3,10 +3,7 @@
 
 This database aims to collect and distribute geothermal heat flow estimates south of 50° and accompanies the following manuscript: 
  
-Burton-Johnson, A., Dziadek, R., and Martin, C.: Geothermal heat flow in Antarctica: current and future directions, 
-The Cryosphere Discuss., https://doi.org/10.5194/tc-2020-59, in review, 2020.
-
-Received: 19 Feb 2020 – Accepted for review: 11 Mar 2020 – Discussion started: 16 Mar 2020
+Burton-Johnson, A., Dziadek, R. and Martin, C.: Review Article: Geothermal heat flow in Antarctica: current and future directions, The Cryosphere, 14, 3843–3873, doi:https://doi.org/10.5194/tc-14-3843-2020, 2020.
 
 When using the database we kindly ask you to cite this publication. 
 
